@@ -1,5 +1,6 @@
 Cole Gauerke 
-- Student at Louisiana State University class of 2026
-- Pursuing a bachelors degree in Computer Science with an focus in Data Science and Analytics
-- Actively learning Java, SQL, C, Python
+- LSU Computer Science / Data Science and Analytics
+- Graduation Date: Fall 2025
+- GPA: 3.6
+- Languages: Python, Java, C/C++, C#, HTML/CSS/JS, SQL
   
